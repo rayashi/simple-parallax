@@ -9,7 +9,7 @@ const zoomOut = ({ banner, title, button }) => {
 };
 
 const zoomIn = ({ banner, title, button }) => {
-  banner.style.backgroundSize = "180%";
+  banner.style.backgroundSize = "100%";
   title.style.opacity = 1;
   title.style.translate = 0;
   title.style.scale = 1;

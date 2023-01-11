@@ -26,7 +26,7 @@ body {
   width: 100%;
   height: 300px;
   background: url("bg.jpg");
-  background-size: 180%;
+  background-size: 100%;
   background-position: center;
   transition: 0.5s;
 }
